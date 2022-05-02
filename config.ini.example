@@ -1,0 +1,10 @@
+[telegram]
+bot_token=
+admin_id=
+
+[database]
+host=
+port=
+user=
+password=
+name=
